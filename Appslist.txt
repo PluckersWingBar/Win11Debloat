@@ -17,7 +17,7 @@ Microsoft.Getstarted   # Cannot be uninstalled in Windows 11
 Microsoft.Messaging
 Microsoft.Microsoft3DViewer
 Microsoft.MicrosoftJournal
-Microsoft.MicrosoftOfficeHub
+#Microsoft.MicrosoftOfficeHub
 Microsoft.MicrosoftPowerBIForWindows
 Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
@@ -29,8 +29,8 @@ Microsoft.Office.Sway
 Microsoft.OneConnect
 Microsoft.Print3D
 Microsoft.SkypeApp
-Microsoft.Todos
-Microsoft.WindowsAlarms
+#Microsoft.Todos
+#Microsoft.WindowsAlarms
 Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
 Microsoft.WindowsSoundRecorder
@@ -38,8 +38,8 @@ Microsoft.XboxApp   # Old Xbox Console Companion App, no longer supported
 Microsoft.ZuneVideo
 MicrosoftCorporationII.MicrosoftFamily   # Family Safety App
 MicrosoftCorporationII.QuickAssist
-MicrosoftTeams   # Old MS Teams personal (MS Store)
-MSTeams   # New MS Teams app
+#MicrosoftTeams   # Old MS Teams personal (MS Store)
+#MSTeams   # New MS Teams app
 
 ACGMediaPlayer
 ActiproSoftwareLLC
@@ -127,12 +127,12 @@ XING
 #   or when launching the script with the specific parameters found in the README.md. Remove the # character in   #
 #   front of any app you want to UNINSTALL by default.                                                            #
 # --------------------------------------------------------------------------------------------------------------- #
-#Microsoft.GamingApp                    # Modern Xbox Gaming App, required for installing some PC games
+Microsoft.GamingApp                    # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.OutlookForWindows            # New mail app: Outlook for Windows
 #Microsoft.People                       # Required for & included with Mail & Calendar
 #Microsoft.PowerAutomateDesktop
 #Microsoft.RemoteDesktop
-#Microsoft.Windows.DevHome
+Microsoft.Windows.DevHome
 #Microsoft.windowscommunicationsapps    # Mail & Calendar
-#Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
-#Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
+Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
+Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
