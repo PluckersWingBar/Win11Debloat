@@ -17,7 +17,6 @@ Microsoft.Getstarted   # Cannot be uninstalled in Windows 11
 Microsoft.Messaging
 Microsoft.Microsoft3DViewer
 Microsoft.MicrosoftJournal
-#Microsoft.MicrosoftOfficeHub
 Microsoft.MicrosoftPowerBIForWindows
 Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
@@ -29,8 +28,6 @@ Microsoft.Office.Sway
 Microsoft.OneConnect
 Microsoft.Print3D
 Microsoft.SkypeApp
-#Microsoft.Todos
-#Microsoft.WindowsAlarms
 Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
 Microsoft.WindowsSoundRecorder
@@ -38,8 +35,6 @@ Microsoft.XboxApp   # Old Xbox Console Companion App, no longer supported
 Microsoft.ZuneVideo
 MicrosoftCorporationII.MicrosoftFamily   # Family Safety App
 MicrosoftCorporationII.QuickAssist
-#MicrosoftTeams   # Old MS Teams personal (MS Store)
-#MSTeams   # New MS Teams app
 
 ACGMediaPlayer
 ActiproSoftwareLLC
