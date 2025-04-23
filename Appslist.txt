@@ -19,11 +19,9 @@ Microsoft.Microsoft3DViewer
 Microsoft.MicrosoftJournal
 Microsoft.MicrosoftPowerBIForWindows
 Microsoft.MicrosoftSolitaireCollection
-Microsoft.MicrosoftStickyNotes
 Microsoft.MixedReality.Portal
 Microsoft.NetworkSpeedTest
 Microsoft.News
-Microsoft.Office.OneNote
 Microsoft.Office.Sway
 Microsoft.OneConnect
 Microsoft.Print3D
